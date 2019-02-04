@@ -1,5 +1,9 @@
 # polylingual
 
+## Now Available as a Flutter Package
+This project has been converted into a Flutter package which can be found [here](https://github.com/magnatronus/polylingual-package)
+
+
 ## Introduction
 A sample Flutter app with a simple class (PolyLingual) that can be used for localising the text in an app.
 
